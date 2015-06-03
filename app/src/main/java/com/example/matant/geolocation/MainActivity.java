@@ -8,10 +8,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
 
 
 public class MainActivity extends ActionBarActivity {
     Button btnshow;
+    TextView png;
 
     MapsActivity mp;
 
